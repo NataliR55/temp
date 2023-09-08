@@ -1,0 +1,9 @@
+
+}
+java:S1488+"[Immediately return this expression instead of assigning it to the temporary variable "rez".(ªËÉÎùÿÿÿÿ8ˆÎ­£1
+m
+java:S1206*"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8—Î­£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï†—Æ8ŸÎ­£1
+r
+java:S1201"UEither override Object.equals(Object), or rename the method to prevent any confusion.(è„ïï8¡Î­£1
+X	java:S125""<This block of commented-out lines of code should be removed.(ôƒ˜…8£Î­£1

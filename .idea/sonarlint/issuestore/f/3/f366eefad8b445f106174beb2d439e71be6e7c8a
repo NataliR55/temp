@@ -1,0 +1,8 @@
+
+Q
+java:S3740	"/Provide the parametrized type for this generic.(¯çÔœùÿÿÿÿ8ƒğß®£1
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œºé3
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÔ²‰8óß®£1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ñ§Áòùÿÿÿÿ8¶Õï®£1
+O
+java:S1068"-Remove this unused "eventName" private field.(Öòüûÿÿÿÿ8üß®£1
