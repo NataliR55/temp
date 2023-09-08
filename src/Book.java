@@ -4,6 +4,7 @@ public class Book implements Comparable<Book> {
     private int publicationYear;
 
     public Book(String title, int numberOfPages, int publicationYear) {
+
         this.title = title;
         this.numberOfPages = numberOfPages;
         this.publicationYear = publicationYear;
